@@ -567,7 +567,11 @@ a {
 }
 
 .finale h2 {
-  margin-top: 20px;
+  margin: 24px 0 28px;
+  padding: 0.1em 0.05em 0.15em;
+  line-height: 1.05;
+  display: inline-block;
+
   background: linear-gradient(180deg, #fff, #86868b);
   background-clip: text;
   -webkit-background-clip: text;
